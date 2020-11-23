@@ -1,1 +1,6 @@
-remote_theme: heiswayi/the-plain
+remote_theme: b2a3e8/jekyll-theme-console
+header_pages:
+  - index.md
+  - documents.md
+footer: 
+style: dark
