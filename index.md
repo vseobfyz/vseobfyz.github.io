@@ -11,9 +11,9 @@ Tabule z online cviceni najdete tiez v sekcii "Vypracovane zadnie DU".
 ### Momentalne zverejnene ulohy
 
 - [x] prva sada (*DONE*)
-- [ ] druha sada (*TODO*)
-- [ ] tretia sada (*TODO*)
-- [ ] stvrta sada (*TODO*)
+- [x] druha sada (*DONE*)
+- [x] tretia sada (*DONE*)
+- [x] stvrta sada (*DONE*)
 
 ### Najblizsi zapocet
 - 25.11.2020 o 8:00 AM
