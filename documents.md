@@ -6,7 +6,7 @@
 - [ZZME tazisko(Autor: Peter Nemec)](https://github.com/vseobfyz/vseobfyz.github.io/raw/main/ulohy/Zadanie_ZZME_tazisko_%20Nemec.pdf)
 - [Gravitacne Pole (Autor: Peter Nemec)](https://github.com/vseobfyz/vseobfyz.github.io/raw/main/ulohy/Zadanie_gravitacne%20pole%20Nemec.pdf)
 - [Neinercialne vztazne sustavy (Autor: Peter Nemec)](https://github.com/vseobfyz/vseobfyz.github.io/raw/main/ulohy/Zadanie_neinercialne%20vztazne%20sustavy%20Doplnene%20Nemec.pdf)
-- [ Otacavy pohyb a pohybova rovnica(Autor: Peter Nemec)](https://github.com/vseobfyz/vseobfyz.github.io/raw/main/ulohy/Zadanie_otacavy%20pohyb_pohybova%20rovnica_Nemec.pdf)
+- [Otacavy pohyb a pohybova rovnica(Autor: Peter Nemec)](https://github.com/vseobfyz/vseobfyz.github.io/raw/main/ulohy/Zadanie_otacavy%20pohyb_pohybova%20rovnica_Nemec.pdf)
 - [Moment zotrvacnosti a tazisko (Autor: Peter Nemec)](https://github.com/vseobfyz/vseobfyz.github.io/raw/main/ulohy/Zadanie_tazisko_moment%20zotrvacnosti_Nemec.pdf)
 - [Opravena uloha k Momentu zotrvacnosti (Autor: Peter Nemec)](https://github.com/vseobfyz/vseobfyz.github.io/raw/main/ulohy/Zadanie_tazisko_moment%20zotrvacnosti_Nemec%20Oprava%20pr%20163.pdf)
 
