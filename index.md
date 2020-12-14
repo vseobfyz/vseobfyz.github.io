@@ -16,4 +16,5 @@ Tabule z online cviceni najdete tiez v sekcii "Vypracovane zadnie DU".
 - [x] stvrta sada (*DONE*)
 
 ### Najblizsi zapocet
-- 25.11.2020 o 8:00 AM
+- ~~25.11.2020 o 8:00 AM~~
+- 16.12.2020 o 8:00 AM
